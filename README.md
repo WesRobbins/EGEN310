@@ -8,7 +8,8 @@ to the rght wheels. If a slider is brought to 10(the top of screen) it will be f
 
 
 # READme for Developers
-All changes realated to bluetooth can be found under the Apple Core Bluetooth API. All bluetooth related code is in bluetooth.swift file.
+All changes realated to bluetooth can be found under the Apple Core Bluetooth API. All bluetooth related code is in particlePeripheral.swift file.
 All viewcontroller related code is in the file viewcontroller.swift.
-All functionality related code the file main.swift
+All functionality related code the file AppDelegate.swift
+Configuration inforation is found in info.plist file
 It is recomended to use an apple running xcode to modify this application
